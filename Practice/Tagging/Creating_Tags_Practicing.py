@@ -8,3 +8,7 @@ squared = [n**2 for n in numbers]
 print("Squared list:", squared)
 
 
+text = "hello world"
+count = text.count("l")
+print("Number of 'l's:", count)
+
