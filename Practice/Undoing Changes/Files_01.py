@@ -1,0 +1,3 @@
+print("Vegash")
+
+print("Jeeva")
